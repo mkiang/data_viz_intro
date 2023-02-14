@@ -1,0 +1,511 @@
+entity,code,year,life_expectancy
+Asia,NA,1990,64.25
+Asia,NA,1991,64.551
+Asia,NA,1992,64.846
+Asia,NA,1993,65.14
+Asia,NA,1994,65.44
+Asia,NA,1995,65.748
+Asia,NA,1996,66.067
+Asia,NA,1997,66.397
+Asia,NA,1998,66.735
+Asia,NA,1999,67.081
+Asia,NA,2000,67.432
+Asia,NA,2001,67.786
+Asia,NA,2002,68.139
+Asia,NA,2003,68.489
+Asia,NA,2004,68.835
+Asia,NA,2005,69.179
+Asia,NA,2006,69.525
+Asia,NA,2007,69.876
+Asia,NA,2008,70.231
+Asia,NA,2009,70.591
+Asia,NA,2010,70.951
+Asia,NA,2011,71.309
+Asia,NA,2012,71.659
+Asia,NA,2013,71.997
+Asia,NA,2014,72.319
+Asia,NA,2015,72.62
+Asia,NA,2016,72.897
+Asia,NA,2017,73.15
+Asia,NA,2018,73.381
+Asia,NA,2019,73.593
+Central African Republic,CAF,1990,49.104
+Central African Republic,CAF,1991,48.728
+Central African Republic,CAF,1992,48.267
+Central African Republic,CAF,1993,47.731
+Central African Republic,CAF,1994,47.143
+Central African Republic,CAF,1995,46.53
+Central African Republic,CAF,1996,45.922
+Central African Republic,CAF,1997,45.353
+Central African Republic,CAF,1998,44.857
+Central African Republic,CAF,1999,44.461
+Central African Republic,CAF,2000,44.19
+Central African Republic,CAF,2001,44.061
+Central African Republic,CAF,2002,44.063
+Central African Republic,CAF,2003,44.182
+Central African Republic,CAF,2004,44.413
+Central African Republic,CAF,2005,44.744
+Central African Republic,CAF,2006,45.158
+Central African Republic,CAF,2007,45.636
+Central African Republic,CAF,2008,46.161
+Central African Republic,CAF,2009,46.719
+Central African Republic,CAF,2010,47.312
+Central African Republic,CAF,2011,47.95
+Central African Republic,CAF,2012,48.638
+Central African Republic,CAF,2013,49.371
+Central African Republic,CAF,2014,50.129
+Central African Republic,CAF,2015,50.881
+Central African Republic,CAF,2016,51.593
+Central African Republic,CAF,2017,52.24
+Central African Republic,CAF,2018,52.805
+Central African Republic,CAF,2019,53.283
+Congo,COG,1990,54.638
+Congo,COG,1991,54.281
+Congo,COG,1992,53.867
+Congo,COG,1993,53.424
+Congo,COG,1994,52.984
+Congo,COG,1995,52.583
+Congo,COG,1996,52.252
+Congo,COG,1997,52.016
+Congo,COG,1998,51.899
+Congo,COG,1999,51.925
+Congo,COG,2000,52.123
+Congo,COG,2001,52.517
+Congo,COG,2002,53.091
+Congo,COG,2003,53.817
+Congo,COG,2004,54.667
+Congo,COG,2005,55.6
+Congo,COG,2006,56.573
+Congo,COG,2007,57.541
+Congo,COG,2008,58.466
+Congo,COG,2009,59.321
+Congo,COG,2010,60.093
+Congo,COG,2011,60.785
+Congo,COG,2012,61.423
+Congo,COG,2013,62.022
+Congo,COG,2014,62.582
+Congo,COG,2015,63.097
+Congo,COG,2016,63.556
+Congo,COG,2017,63.954
+Congo,COG,2018,64.29
+Congo,COG,2019,64.57
+Finland,FIN,1990,75.254
+Finland,FIN,1991,75.469
+Finland,FIN,1992,75.705
+Finland,FIN,1993,75.954
+Finland,FIN,1994,76.21
+Finland,FIN,1995,76.472
+Finland,FIN,1996,76.735
+Finland,FIN,1997,76.999
+Finland,FIN,1998,77.262
+Finland,FIN,1999,77.523
+Finland,FIN,2000,77.779
+Finland,FIN,2001,78.028
+Finland,FIN,2002,78.272
+Finland,FIN,2003,78.51
+Finland,FIN,2004,78.745
+Finland,FIN,2005,78.977
+Finland,FIN,2006,79.208
+Finland,FIN,2007,79.44
+Finland,FIN,2008,79.672
+Finland,FIN,2009,79.906
+Finland,FIN,2010,80.137
+Finland,FIN,2011,80.365
+Finland,FIN,2012,80.586
+Finland,FIN,2013,80.799
+Finland,FIN,2014,81.002
+Finland,FIN,2015,81.196
+Finland,FIN,2016,81.382
+Finland,FIN,2017,81.561
+Finland,FIN,2018,81.736
+Finland,FIN,2019,81.908
+France,FRA,1990,76.757
+France,FRA,1991,76.997
+France,FRA,1992,77.229
+France,FRA,1993,77.457
+France,FRA,1994,77.681
+France,FRA,1995,77.902
+France,FRA,1996,78.12
+France,FRA,1997,78.338
+France,FRA,1998,78.557
+France,FRA,1999,78.779
+France,FRA,2000,79.008
+France,FRA,2001,79.246
+France,FRA,2002,79.496
+France,FRA,2003,79.755
+France,FRA,2004,80.021
+France,FRA,2005,80.291
+France,FRA,2006,80.558
+France,FRA,2007,80.819
+France,FRA,2008,81.067
+France,FRA,2009,81.299
+France,FRA,2010,81.508
+France,FRA,2011,81.692
+France,FRA,2012,81.852
+France,FRA,2013,81.992
+France,FRA,2014,82.114
+France,FRA,2015,82.224
+France,FRA,2016,82.328
+France,FRA,2017,82.432
+France,FRA,2018,82.541
+France,FRA,2019,82.659
+Japan,JPN,1990,79.004
+Japan,JPN,1991,79.18
+Japan,JPN,1992,79.355
+Japan,JPN,1993,79.536
+Japan,JPN,1994,79.727
+Japan,JPN,1995,79.935
+Japan,JPN,1996,80.162
+Japan,JPN,1997,80.404
+Japan,JPN,1998,80.656
+Japan,JPN,1999,80.914
+Japan,JPN,2000,81.171
+Japan,JPN,2001,81.422
+Japan,JPN,2002,81.661
+Japan,JPN,2003,81.883
+Japan,JPN,2004,82.087
+Japan,JPN,2005,82.27
+Japan,JPN,2006,82.431
+Japan,JPN,2007,82.575
+Japan,JPN,2008,82.709
+Japan,JPN,2009,82.838
+Japan,JPN,2010,82.971
+Japan,JPN,2011,83.118
+Japan,JPN,2012,83.283
+Japan,JPN,2013,83.467
+Japan,JPN,2014,83.668
+Japan,JPN,2015,83.879
+Japan,JPN,2016,84.09
+Japan,JPN,2017,84.29
+Japan,JPN,2018,84.47
+Japan,JPN,2019,84.629
+Latvia,LVA,1990,69.053
+Latvia,LVA,1991,68.564
+Latvia,LVA,1992,68.143
+Latvia,LVA,1993,67.862
+Latvia,LVA,1994,67.752
+Latvia,LVA,1995,67.828
+Latvia,LVA,1996,68.076
+Latvia,LVA,1997,68.437
+Latvia,LVA,1998,68.855
+Latvia,LVA,1999,69.297
+Latvia,LVA,2000,69.726
+Latvia,LVA,2001,70.106
+Latvia,LVA,2002,70.429
+Latvia,LVA,2003,70.698
+Latvia,LVA,2004,70.917
+Latvia,LVA,2005,71.114
+Latvia,LVA,2006,71.331
+Latvia,LVA,2007,71.602
+Latvia,LVA,2008,71.949
+Latvia,LVA,2009,72.368
+Latvia,LVA,2010,72.838
+Latvia,LVA,2011,73.323
+Latvia,LVA,2012,73.778
+Latvia,LVA,2013,74.172
+Latvia,LVA,2014,74.491
+Latvia,LVA,2015,74.733
+Latvia,LVA,2016,74.91
+Latvia,LVA,2017,75.048
+Latvia,LVA,2018,75.172
+Latvia,LVA,2019,75.292
+North Macedonia,MKD,1990,71.152
+North Macedonia,MKD,1991,71.331
+North Macedonia,MKD,1992,71.502
+North Macedonia,MKD,1993,71.68
+North Macedonia,MKD,1994,71.871
+North Macedonia,MKD,1995,72.08
+North Macedonia,MKD,1996,72.309
+North Macedonia,MKD,1997,72.55
+North Macedonia,MKD,1998,72.795
+North Macedonia,MKD,1999,73.038
+North Macedonia,MKD,2000,73.267
+North Macedonia,MKD,2001,73.47
+North Macedonia,MKD,2002,73.642
+North Macedonia,MKD,2003,73.781
+North Macedonia,MKD,2004,73.892
+North Macedonia,MKD,2005,73.986
+North Macedonia,MKD,2006,74.08
+North Macedonia,MKD,2007,74.19
+North Macedonia,MKD,2008,74.324
+North Macedonia,MKD,2009,74.484
+North Macedonia,MKD,2010,74.662
+North Macedonia,MKD,2011,74.846
+North Macedonia,MKD,2012,75.019
+North Macedonia,MKD,2013,75.171
+North Macedonia,MKD,2014,75.299
+North Macedonia,MKD,2015,75.406
+North Macedonia,MKD,2016,75.498
+North Macedonia,MKD,2017,75.589
+North Macedonia,MKD,2018,75.688
+North Macedonia,MKD,2019,75.797
+Paraguay,PRY,1990,68.545
+Paraguay,PRY,1991,68.753
+Paraguay,PRY,1992,68.958
+Paraguay,PRY,1993,69.152
+Paraguay,PRY,1994,69.335
+Paraguay,PRY,1995,69.511
+Paraguay,PRY,1996,69.69
+Paraguay,PRY,1997,69.88
+Paraguay,PRY,1998,70.087
+Paraguay,PRY,1999,70.31
+Paraguay,PRY,2000,70.546
+Paraguay,PRY,2001,70.786
+Paraguay,PRY,2002,71.023
+Paraguay,PRY,2003,71.249
+Paraguay,PRY,2004,71.464
+Paraguay,PRY,2005,71.667
+Paraguay,PRY,2006,71.862
+Paraguay,PRY,2007,72.055
+Paraguay,PRY,2008,72.251
+Paraguay,PRY,2009,72.45
+Paraguay,PRY,2010,72.653
+Paraguay,PRY,2011,72.86
+Paraguay,PRY,2012,73.068
+Paraguay,PRY,2013,73.274
+Paraguay,PRY,2014,73.473
+Paraguay,PRY,2015,73.662
+Paraguay,PRY,2016,73.836
+Paraguay,PRY,2017,73.992
+Paraguay,PRY,2018,74.131
+Paraguay,PRY,2019,74.254
+Russia,RUS,1990,68.047
+Russia,RUS,1991,67.561
+Russia,RUS,1992,67.069
+Russia,RUS,1993,66.632
+Russia,RUS,1994,66.279
+Russia,RUS,1995,66.009
+Russia,RUS,1996,65.798
+Russia,RUS,1997,65.608
+Russia,RUS,1998,65.417
+Russia,RUS,1999,65.234
+Russia,RUS,2000,65.082
+Russia,RUS,2001,64.995
+Russia,RUS,2002,65.005
+Russia,RUS,2003,65.131
+Russia,RUS,2004,65.38
+Russia,RUS,2005,65.752
+Russia,RUS,2006,66.238
+Russia,RUS,2007,66.807
+Russia,RUS,2008,67.426
+Russia,RUS,2009,68.07
+Russia,RUS,2010,68.715
+Russia,RUS,2011,69.343
+Russia,RUS,2012,69.944
+Russia,RUS,2013,70.508
+Russia,RUS,2014,71.018
+Russia,RUS,2015,71.464
+Russia,RUS,2016,71.835
+Russia,RUS,2017,72.139
+Russia,RUS,2018,72.386
+Russia,RUS,2019,72.584
+Rwanda,RWA,1990,33.413
+Rwanda,RWA,1991,29.248
+Rwanda,RWA,1992,26.691
+Rwanda,RWA,1993,26.172
+Rwanda,RWA,1994,27.738
+Rwanda,RWA,1995,31.037
+Rwanda,RWA,1996,35.38
+Rwanda,RWA,1997,39.838
+Rwanda,RWA,1998,43.686
+Rwanda,RWA,1999,46.639
+Rwanda,RWA,2000,48.649
+Rwanda,RWA,2001,49.936
+Rwanda,RWA,2002,50.987
+Rwanda,RWA,2003,52.178
+Rwanda,RWA,2004,53.595
+Rwanda,RWA,2005,55.254
+Rwanda,RWA,2006,57.083
+Rwanda,RWA,2007,58.915
+Rwanda,RWA,2008,60.612
+Rwanda,RWA,2009,62.129
+Rwanda,RWA,2010,63.433
+Rwanda,RWA,2011,64.523
+Rwanda,RWA,2012,65.438
+Rwanda,RWA,2013,66.219
+Rwanda,RWA,2014,66.884
+Rwanda,RWA,2015,67.45
+Rwanda,RWA,2016,67.93
+Rwanda,RWA,2017,68.341
+Rwanda,RWA,2018,68.7
+Rwanda,RWA,2019,69.024
+Sierra Leone,SLE,1990,38.563
+Sierra Leone,SLE,1991,38.122
+Sierra Leone,SLE,1992,37.717
+Sierra Leone,SLE,1993,37.384
+Sierra Leone,SLE,1994,37.158
+Sierra Leone,SLE,1995,37.083
+Sierra Leone,SLE,1996,37.194
+Sierra Leone,SLE,1997,37.496
+Sierra Leone,SLE,1998,37.98
+Sierra Leone,SLE,1999,38.634
+Sierra Leone,SLE,2000,39.441
+Sierra Leone,SLE,2001,40.369
+Sierra Leone,SLE,2002,41.376
+Sierra Leone,SLE,2003,42.419
+Sierra Leone,SLE,2004,43.467
+Sierra Leone,SLE,2005,44.502
+Sierra Leone,SLE,2006,45.517
+Sierra Leone,SLE,2007,46.52
+Sierra Leone,SLE,2008,47.508
+Sierra Leone,SLE,2009,48.468
+Sierra Leone,SLE,2010,49.382
+Sierra Leone,SLE,2011,50.234
+Sierra Leone,SLE,2012,51.018
+Sierra Leone,SLE,2013,51.731
+Sierra Leone,SLE,2014,52.372
+Sierra Leone,SLE,2015,52.941
+Sierra Leone,SLE,2016,53.444
+Sierra Leone,SLE,2017,53.895
+Sierra Leone,SLE,2018,54.309
+Sierra Leone,SLE,2019,54.696
+Singapore,SGP,1990,75.936
+Singapore,SGP,1991,76.234
+Singapore,SGP,1992,76.463
+Singapore,SGP,1993,76.625
+Singapore,SGP,1994,76.735
+Singapore,SGP,1995,76.821
+Singapore,SGP,1996,76.922
+Singapore,SGP,1997,77.07
+Singapore,SGP,1998,77.29
+Singapore,SGP,1999,77.59
+Singapore,SGP,2000,77.969
+Singapore,SGP,2001,78.413
+Singapore,SGP,2002,78.891
+Singapore,SGP,2003,79.372
+Singapore,SGP,2004,79.839
+Singapore,SGP,2005,80.275
+Singapore,SGP,2006,80.667
+Singapore,SGP,2007,81.015
+Singapore,SGP,2008,81.325
+Singapore,SGP,2009,81.595
+Singapore,SGP,2010,81.833
+Singapore,SGP,2011,82.048
+Singapore,SGP,2012,82.254
+Singapore,SGP,2013,82.459
+Singapore,SGP,2014,82.667
+Singapore,SGP,2015,82.877
+Singapore,SGP,2016,83.083
+Singapore,SGP,2017,83.279
+Singapore,SGP,2018,83.458
+Singapore,SGP,2019,83.62
+South Africa,ZAF,1990,63.307
+South Africa,ZAF,1991,63.384
+South Africa,ZAF,1992,63.247
+South Africa,ZAF,1993,62.894
+South Africa,ZAF,1994,62.331
+South Africa,ZAF,1995,61.561
+South Africa,ZAF,1996,60.595
+South Africa,ZAF,1997,59.489
+South Africa,ZAF,1998,58.315
+South Africa,ZAF,1999,57.144
+South Africa,ZAF,2000,56.048
+South Africa,ZAF,2001,55.089
+South Africa,ZAF,2002,54.31
+South Africa,ZAF,2003,53.749
+South Africa,ZAF,2004,53.444
+South Africa,ZAF,2005,53.447
+South Africa,ZAF,2006,53.795
+South Africa,ZAF,2007,54.452
+South Africa,ZAF,2008,55.36
+South Africa,ZAF,2009,56.46
+South Africa,ZAF,2010,57.669
+South Africa,ZAF,2011,58.895
+South Africa,ZAF,2012,60.06
+South Africa,ZAF,2013,61.099
+South Africa,ZAF,2014,61.968
+South Africa,ZAF,2015,62.649
+South Africa,ZAF,2016,63.153
+South Africa,ZAF,2017,63.538
+South Africa,ZAF,2018,63.857
+South Africa,ZAF,2019,64.131
+Sudan,SDN,1990,55.5
+Sudan,SDN,1991,55.687
+Sudan,SDN,1992,55.899
+Sudan,SDN,1993,56.14
+Sudan,SDN,1994,56.41
+Sudan,SDN,1995,56.709
+Sudan,SDN,1996,57.032
+Sudan,SDN,1997,57.374
+Sudan,SDN,1998,57.73
+Sudan,SDN,1999,58.096
+Sudan,SDN,2000,58.472
+Sudan,SDN,2001,58.859
+Sudan,SDN,2002,59.258
+Sudan,SDN,2003,59.67
+Sudan,SDN,2004,60.092
+Sudan,SDN,2005,60.525
+Sudan,SDN,2006,60.969
+Sudan,SDN,2007,61.422
+Sudan,SDN,2008,61.879
+Sudan,SDN,2009,62.33
+Sudan,SDN,2010,62.764
+Sudan,SDN,2011,63.171
+Sudan,SDN,2012,63.542
+Sudan,SDN,2013,63.875
+Sudan,SDN,2014,64.169
+Sudan,SDN,2015,64.429
+Sudan,SDN,2016,64.663
+Sudan,SDN,2017,64.881
+Sudan,SDN,2018,65.095
+Sudan,SDN,2019,65.311
+United Kingdom,GBR,1990,75.689
+United Kingdom,GBR,1991,75.903
+United Kingdom,GBR,1992,76.111
+United Kingdom,GBR,1993,76.311
+United Kingdom,GBR,1994,76.504
+United Kingdom,GBR,1995,76.694
+United Kingdom,GBR,1996,76.886
+United Kingdom,GBR,1997,77.086
+United Kingdom,GBR,1998,77.298
+United Kingdom,GBR,1999,77.522
+United Kingdom,GBR,2000,77.761
+United Kingdom,GBR,2001,78.011
+United Kingdom,GBR,2002,78.268
+United Kingdom,GBR,2003,78.529
+United Kingdom,GBR,2004,78.79
+United Kingdom,GBR,2005,79.052
+United Kingdom,GBR,2006,79.316
+United Kingdom,GBR,2007,79.584
+United Kingdom,GBR,2008,79.85
+United Kingdom,GBR,2009,80.11
+United Kingdom,GBR,2010,80.352
+United Kingdom,GBR,2011,80.564
+United Kingdom,GBR,2012,80.739
+United Kingdom,GBR,2013,80.876
+United Kingdom,GBR,2014,80.978
+United Kingdom,GBR,2015,81.052
+United Kingdom,GBR,2016,81.111
+United Kingdom,GBR,2017,81.168
+United Kingdom,GBR,2018,81.236
+United Kingdom,GBR,2019,81.321
+United States,USA,1990,75.246
+United States,USA,1991,75.4
+United States,USA,1992,75.562
+United States,USA,1993,75.728
+United States,USA,1994,75.896
+United States,USA,1995,76.062
+United States,USA,1996,76.222
+United States,USA,1997,76.376
+United States,USA,1998,76.524
+United States,USA,1999,76.668
+United States,USA,2000,76.812
+United States,USA,2001,76.962
+United States,USA,2002,77.124
+United States,USA,2003,77.299
+United States,USA,2004,77.486
+United States,USA,2005,77.685
+United States,USA,2006,77.892
+United States,USA,2007,78.101
+United States,USA,2008,78.303
+United States,USA,2009,78.49
+United States,USA,2010,78.652
+United States,USA,2011,78.777
+United States,USA,2012,78.862
+United States,USA,2013,78.909
+United States,USA,2014,78.922
+United States,USA,2015,78.91
+United States,USA,2016,78.885
+United States,USA,2017,78.861
+United States,USA,2018,78.851
+United States,USA,2019,78.862
